@@ -1,6 +1,8 @@
 # u-gentle-badger-68-monday-morning-punchlines-709645dc-entry
 
 [![make.fun · u-gentle-badger-68-monday-morning-punchlines-709645dc](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/kara93-code/u-gentle-badger-68-monday-morning-punchlines-709645dc-entry/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/kara93-code/u-gentle-badger-68-monday-morning-punchlines-709645dc-entry/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
 One joke about Monday morning, 200 characters at most. Monday is cast as an
 uninvited houseguest: it doesn't knock, it lets itself in, eats the weekend,
